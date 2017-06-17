@@ -1,2 +1,0 @@
-# ideaSetting
-ideaSetting
