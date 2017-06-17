@@ -1,7 +1,7 @@
 <application>
   <component name="CodeInsightSettings">
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
-    <EXCLUDED_PACKAGE NAME="org.slf4j.Logger" />
+    <EXCLUDED_PACKAGE NAME="java.sql.Date" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
