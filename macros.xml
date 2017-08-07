@@ -1,0 +1,10 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="1">
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorBackSpace" />
+      <action id="EditorEnter" />
+    </macro>
+  </component>
+</application>
